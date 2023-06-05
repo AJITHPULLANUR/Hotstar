@@ -1,0 +1,306 @@
+@media(max-width:500px){
+
+    .navbar{
+        width: 120%;
+        height: 20vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        /* background-color: blueviolet; */
+        
+    }
+    .menus{
+        display: flex;
+        flex-direction: row;
+        /* background-color: aqua; */
+        height: 8vh;
+        width: 90%;
+        justify-content: space-evenly;
+        align-items: center;
+        padding-right: 5rem;
+    }
+    .hotstar{
+        width: 50%;
+        /* background-color: blue; */
+        display: flex;
+        flex-direction: row;
+        height: 7vh;
+        justify-content: center;
+        margin-right: 5rem ;
+
+    }
+    .icon-tag{
+        font-size: 8px;
+    }
+    .logo{
+        height: 6vh;
+    }
+    .subs{
+        height: 3vh;
+    }
+    .logo2{
+        width: 25px;
+    }
+    .maindiv{
+        height: 50vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        /* background-color: rgb(243, 43, 153); */
+        margin-left: 0rem;
+        
+        
+        
+        
+        
+    }
+    .maindiv2{
+        height: 30vh;
+        /* background-color: aqua; */
+        width: 100%;
+        margin-left: 0;
+        margin-top: 8rem;
+        
+    }
+    .full{
+        width: 100%;
+        display: flex;
+        align-items: start;
+        flex-direction: column;
+        justify-content: start;
+        
+    }
+    .firstmovie-keralacrime{
+       width: 60%;
+       /* background-color: aliceblue; */
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       height: 30vh;
+    }
+    .disneyfirst{
+        width: 100%;
+        height: 30vh;
+    }
+    .keralacrime{
+        width: 100%;
+        height: 20vh;
+        object-fit: contain;
+        
+    }
+    .disney{
+        width: 100%;
+        
+
+    }
+    .mediadisney{
+        object-fit: cover;
+        width: 60px;
+        height: 60px;
+    }
+    .comingsoon{
+        font-size: 12px;
+    }
+    .staytuned{
+        font-size: 15px;
+    }
+    .pngimage{
+        width: 150px;
+    }
+    .sulaika{
+        height: 25vh;
+        /* background-color: blue; */
+        width: 85%;
+        
+        padding-left: 0;
+        
+    }
+    .sul20232{
+        font-size: 10px;
+        width: 100%;
+        /* background-color: blueviolet; */
+        height: 5vh;
+    }
+    .sul2023{
+        font-size: 15px;
+        width: 100%;
+        /* background-color: crimson; */
+        height: 2vh;
+    }
+    .genre{
+        font-size: 10px;
+        /* background-color: darkblue; */
+        width: 100%;
+       
+       
+    }
+    .languages{
+        font-size: 10px;
+        /* background-color: darkgreen; */
+        width: 100%;
+        height: 2vh;
+    }
+    .sulubutton{
+        width: 150px;
+        height: 20px;
+        font-size: 12px;
+    }
+    .suluplus{
+        width: 50px;
+        height: 20px;
+
+    }
+    .sulusub{
+        /* background-color: aqua; */
+        width: 100%;
+        height: 5vh;
+    }
+    .pngimage{
+        width: 80px;
+    }
+    .video1{
+        /* background-color: aqua; */
+        height: 30vh;
+    }
+    .subscribe2{
+        height: 25px;
+    }
+    .tag1{
+        padding-left: 0;
+        width: 100%;
+    }
+    .movie{
+        padding-left: 0;
+    }
+    .footer1{
+        padding-left: 0;
+    }
+    .com{
+        font-size: 12px;
+    }
+    .comp{
+        font-size: 15px;
+    }
+    .twit{
+        width: 20px;
+        
+    }
+    .fbs{
+        padding-right: 10px;
+    }
+    .hotstarspecial{
+        height: 50vh;
+        width: 15vh;
+        padding-left: 1rem;
+    }
+    .movieinfo{
+        font-size: 12px;
+    }
+    .movieinfo{
+
+        font-size:6px;
+    }
+    .thallumala{
+        height: 50vh;
+        width: 15vh;
+
+    }
+    .beeshma{
+        height: 50vh;
+        width: 15vh;
+
+
+    }
+    .antman{
+        height: 50vh;
+        width: 15vh;
+
+    }
+    .kgf{
+        height: 50vh;
+        width: 15vh;
+        padding-left: 1rem;
+    }
+    .tovino{
+        height: 50vh;
+        width: 15vh;
+    }
+    .avatar{
+        height: 50vh;
+        width: 15vh;
+    }
+    .romancham{
+        height: 50vh;
+        width: 15vh;
+    }
+    .after{
+        height: 50vh;
+        width: 15vh;
+        padding-left: 1rem;
+    }
+    .seetharamam{
+        height: 50vh;
+        width: 15vh;
+    }
+    .luca{
+        height: 50vh;
+        width: 15vh;
+    }
+    .npcb{
+        height: 50vh;
+        width: 15vh;
+    }
+    .pathaan{
+        height: 50vh;
+        width: 15vh;
+        padding-left: 1rem;
+    }
+    .bigb{
+        height: 50vh;
+        width: 15vh;
+    }
+    .avengers{
+        height: 50vh;
+        width: 15vh;
+    }
+    .lucifer{
+        height: 50vh;
+        width: 15vh;
+    }
+    .img-div{
+        display: flex;
+        flex-direction: column;
+    }
+    .img-div1{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .img-div2{
+        display: flex;
+        flex-direction: column;
+    }
+    .img-div3{
+        display: flex;
+        flex-direction: column;
+    }
+    .img-div4{
+        display: flex;
+        flex-direction: column;
+    }
+    .img-div5{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .hot{
+        object-fit: cover;
+        height: 150px;
+    }
+    .moviewatch{
+        font-size: 7px;
+    }
+}
+
