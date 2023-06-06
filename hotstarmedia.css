@@ -8,6 +8,7 @@
         justify-content: center;
         align-items: center;
         /* background-color: blueviolet; */
+        z-index: 1;
         
     }
     .menus{
@@ -173,6 +174,7 @@
     }
     .movie{
         padding-left: 0;
+        height: 35vh;
     }
     .footer1{
         padding-left: 0;
@@ -191,7 +193,7 @@
         padding-right: 10px;
     }
     .hotstarspecial{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
         padding-left: 1rem;
     }
@@ -203,70 +205,70 @@
         font-size:6px;
     }
     .thallumala{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
 
     }
     .beeshma{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
 
 
     }
     .antman{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
 
     }
     .kgf{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
         padding-left: 1rem;
     }
     .tovino{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
     }
     .avatar{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
     }
     .romancham{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
     }
     .after{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
         padding-left: 1rem;
     }
     .seetharamam{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
     }
     .luca{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
     }
     .npcb{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
     }
     .pathaan{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
         padding-left: 1rem;
     }
     .bigb{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
     }
     .avengers{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
     }
     .lucifer{
-        height: 50vh;
+        height: 30vh;
         width: 15vh;
     }
     .img-div{
@@ -325,6 +327,9 @@
     }
     .appstore{
         width: 80%;
+    }
+    .movietext{
+        display: none;
     }
 }
 
