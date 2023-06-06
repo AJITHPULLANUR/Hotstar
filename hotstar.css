@@ -312,13 +312,15 @@ span {
     padding-top: 5px;
   }
   .sulubutton{
-    width: 280px;
+    width: 300px;
     height: 50px;
     border-radius: 10px;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     border: 0;
     overflow: hidden;
+   
+    
     
     
 
@@ -337,8 +339,9 @@ span {
     transition-duration: 1.2;
   }
   .sulubutton:hover{
-    transform: scale(1.1);
-    transition-duration: 1.2;
+    transform: scale(1.01);
+    transition-duration: 1.1;
+    overflow: hidden;
 
   }
   .sulusub{
