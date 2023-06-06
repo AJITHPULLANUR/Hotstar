@@ -302,5 +302,29 @@
     .moviewatch{
         font-size: 7px;
     }
+    .disneyimage{
+        display: flex;
+        align-items: end;
+       
+        justify-content: end;
+    }
+    .socialmedia{
+        width: 40%;
+    }
+    .logos{
+        width: 130%;
+        background-color: aqua;
+    }
+    .ios{
+        width: 150%;
+        background-color: blue;
+        
+    }
+    .playstore{
+        width: 100%;
+    }
+    .appstore{
+        width: 80%;
+    }
 }
 
